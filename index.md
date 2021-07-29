@@ -5,7 +5,7 @@ title: Lalit's CV
 
 # Lalit Tanwar
 
-Web Architecture | Leadership | Algorithms | Analytics | Data Science | Problem Solving 
+Web Architecture, Leadership, Algorithms, Analytics, Data Science, Problem Solving 
 
 
 ## Career Summary
