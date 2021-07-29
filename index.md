@@ -15,7 +15,7 @@ Techie in architecting multi-tenant, multi-channel applications in financial and
 An Open Source contributor for some creatively designed UI frameworks. 
 
 
-### Journey so far...
+## Journey so far...
 
 Started my journey at Dion Global Solutions, leading a UI team of financial product development at the Idea inception stage. Started off with designing UI architecture of complex features keeping in mind User Experience (UX) for front office users at financial institutions. In 3 years of product development, I extended my learning curve and moved to the next step of the career ladder.
 
@@ -31,21 +31,19 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2009-2011`
+__Indian Institute of Technology – IIT Mumbai.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Master of Technology in Computer Science
 
-- Sizar
+`2005-2009`
+__Thapar Institute of Engineering and Technology__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Bachelor of Engineering in Computer Science
 
 
 
+<!-- 
 ## Awards
 
 `2012`
@@ -56,8 +54,6 @@ Associate, *French Academy of Science*, Paris, France
 
 
 ## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Journals
 
@@ -87,6 +83,7 @@ __Royal Mint__, London
 __Lucasian professor of Mathematics__, Cambridge University
 
 
+-->
 
 <!-- ### Footer
 
