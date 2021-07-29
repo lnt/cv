@@ -2,7 +2,7 @@
 layout: default
 title: Lalit's CV
 ---
-Physicist, Mathematician, Cambridge professor.
+Web Architecture | Leadership | Algorithms | Analytics | Data Science | Problem Solving 
 
 <div id="webaddress">
 <a href="lalit.tanwar@iitbombay.org">lalit.tanwar@iitbombay.org</a>
