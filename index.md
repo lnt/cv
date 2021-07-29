@@ -1,13 +1,12 @@
 ---
 layout: default
-title: Isaac Newtons's CV
+title: Lalit's CV
 ---
-# Lalit Tanwar-GHP
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="lalit.tanwar@iitbombay.org">lalit.tanwar@iitbombay.org</a>
+| <a href="https://www.lalittanwar.com">Website</a>
 </div>
 
 
