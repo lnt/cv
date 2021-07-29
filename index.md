@@ -2,7 +2,7 @@
 layout: default
 title: Isaac Newtons's CV
 ---
-# Lalit Tanwar
+# Lalit Tanwar-GHP
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
