@@ -2,7 +2,7 @@
 layout: default
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
+# Lalit Tanwar
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
