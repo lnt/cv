@@ -7,19 +7,20 @@ title: Lalit's CV
 </div>
 
 
-<div id="webaddress">
-<a href="lalit_tanwar07@iitbombay.org">lalit_tanwar07@iitbombay.org</a>
-| <a href="https://www.lalittanwar.com">Website</a>
-</div>
+## Career Summary
+
+Techie in architecting multi-tenant, multi-channel applications in financial and e-commerce domains. Getting innovations and creativity in the UI technologies is a key to building solutions. Resolving architectural problems and improvising on building scalable solutions is the focus area. Key differentiator identifying satisfactory solutions and awesome solutions for customers. Tech startup culture is the best suited and highly motivated to work with. Contributing to the culture of innovation and transforming business operations to maximize ROI.
+
+An Open Source contributor for some creatively designed UI frameworks. 
 
 
-## Currently
+### Journey so far...
 
-Standing on the shoulders of giants
+Started my journey at Dion Global Solutions, leading a UI team of financial product development at the Idea inception stage. Started off with designing UI architecture of complex features keeping in mind User Experience (UX) for front office users at financial institutions. In 3 years of product development, I extended my learning curve and moved to the next step of the career ladder.
 
-### Specialized in
+Continued designing UI architecture for the world’s leading e-commerce product, designing complete UI architecture of travel ecosystem (Aertrip) , designing Online Logistics Platform (OLP) for Snapdeal and Fashion e-commerce. Around 3 years of exciting journey with a leading UI team of 8, went on accepting the next level challenge.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Joined the fastest growing major Exchange Company in Kuwait with a challenge to keep existing business operations going along with building a scalable, multi-tenant, multichannel architecture for remittance services used by Kuwaiti residents.
 
 
 ### Research interests
