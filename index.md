@@ -2,10 +2,11 @@
 layout: default
 title: Lalit's CV
 ---
-Web Architecture, Leadership, Algorithms, Analytics, Data Science, Problem Solving 
-
+<div>
+	Web Architecture | Leadership | Algorithms | Analytics | Data Science | Problem Solving 
+</div>
 <div id="webaddress">
-<a href="lalit_tanwar07@iitbombay.org">llalit_tanwar07@iitbombay.org</a>
+<a href="lalit_tanwar07@iitbombay.org">lalit_tanwar07@iitbombay.org</a>
 | <a href="https://www.lalittanwar.com">Website</a>
 </div>
 
