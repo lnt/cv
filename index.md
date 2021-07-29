@@ -24,10 +24,11 @@ Continued designing UI architecture for the world’s leading e-commerce product
 Joined the fastest growing major Exchange Company in Kuwait with a challenge to keep existing business operations going along with building a scalable, multi-tenant, multichannel architecture for remittance services used by Kuwaiti residents.
 
 
-### Research interests
+<!-- 
+### Interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Machine Leaning, Framork, optics, alchemy, planetary motions, apples.
+-->
 
 ## Education
 
