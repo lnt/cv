@@ -21,7 +21,7 @@ Started my journey at Dion Global Solutions, leading a UI team of financial prod
 
 Continued designing UI architecture for the world’s leading e-commerce product, designing complete UI architecture of travel ecosystem (Aertrip) , designing Online Logistics Platform (OLP) for Snapdeal and Fashion e-commerce. Around 3 years of exciting journey with a leading UI team of 8, went on accepting the next level challenge.
 
-Joined the fastest growing major Exchange Company in Kuwait with a challenge to keep existing business operations going along with building a scalable, multi-tenant, multichannel architecture for remittance services used by Kuwaiti residents.
+Joined the fastest growing major Exchange Company in Kuwait with a challenge to keep existing business operations going along with building a scalable, multi-tenant, multichannel architecture for remittance services used by Kuwaiti residents. Ready for the next bigger challenge to make the difference :)
 
 
 <!-- 
